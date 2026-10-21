@@ -1,6 +1,6 @@
-**Zomato Restaurant Data Analysis Using Python**
+# Zomato Restaurant Data Analysis Using Python
 
-*Project Overview*
+**Project Overview**
 
 This project explores Zomato restaurant data using Python to understand restaurant categories, customer ratings, restaurant votes, approximate dining costs, and online ordering patterns. It uses data analysis and visualization libraries to summarize the dataset and present findings through charts.
 
